@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://cloud.ahao.ah.cn/"
+  },
+  {
+    "icon": "Fire",
+    "name": "关于我",
+    "link": "https://cloud.ahao.ah.cn/about/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘(开发中)",
+    "link": "https://cloud.ahao.ah.cn/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://cloud.ahao.ah.cn/music/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://home.ahao.ah.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "友友们",
+    "link": "https://cloud.ahao.ah.cn/link/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://home.ahao.ah.cn/"
+  }
+]
